@@ -1,6 +1,11 @@
 # datafun-05-sql
 #### This Read Me file contains the information and instructions related to Project 5 SQL
 
+## Instructions for cloning Repo to computer
+```bash
+git clone https://github.com/K-Bromley/datafun-05-sql
+```
+
 ## Instructions for Setting up Virtual Environment
 ``` bash
 python3 -m venv .venv
