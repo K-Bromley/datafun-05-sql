@@ -18,6 +18,14 @@ python3 -m pip install pandas pyarrow
 python3 -m pip freeze > requirements.txt
 ```
 
+## Imports used in Files
+```bash
+import sqlite3
+import pandas as pd
+import pathlib
+import logging
+```
+
 ## Git Commands
 ``` bash
 git add .
